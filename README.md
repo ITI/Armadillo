@@ -1,7 +1,7 @@
 # Armadillo
 CyPSA Open Source Release
 
-More information here: [http://publish.illinois.edu/iti-cypsa/status/
+More information here: http://publish.illinois.edu/iti-cypsa/status/
 
 ## What is CyPSA?
 
